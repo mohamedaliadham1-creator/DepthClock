@@ -1,0 +1,6 @@
+{
+  "name": "DepthClock",
+  "description": "Depth-effect lock-screen wallpaper studio for Android with on-device subject segmentation, manual mask editing, and layered clock compositing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

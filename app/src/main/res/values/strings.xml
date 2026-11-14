@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DepthClock</string>
+    <string name="tagline">Editorial Depth Wallpapers</string>
+    <string name="create_wallpaper">Create Wallpaper</string>
+    <string name="try_sample_scene">Try Sample Scene</string>
+    <string name="my_creations">My Creations</string>
+    <string name="recent_creations">Recently Edited</string>
+    <string name="settings_title">Settings</string>
+    <string name="static_clock_notice">Static Export Notice: Exported Depth Clock wallpapers bake the chosen time into the image and will not tick live on your lock screen. Use Clean Depth Wallpaper if you prefer your system clock.</string>
+    <string name="privacy_notice">All photos, segmentation masks, and clock compositions stay 100% on your device. Nothing is uploaded to external servers.</string>
+</resources>
